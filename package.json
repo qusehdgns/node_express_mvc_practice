@@ -13,5 +13,13 @@
   "keywords": [],
   "author": "Dong",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qusehdgns/node_express_mvc_practice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/qusehdgns/node_express_mvc_practice/issues"
+  },
+  "homepage": "https://github.com/qusehdgns/node_express_mvc_practice#readme",
   "description": ""
 }
